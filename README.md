@@ -1,4 +1,4 @@
 # TestableRepo
  
-## For All Developers
+## For Developers
  
